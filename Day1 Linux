@@ -5,6 +5,8 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 ssh = secure connect,  bandit0 = username,     @ = it is used between username & hostname
 
+-p = -p  2220 = Port Number
+
 bandit.labs.overthewire.org = Hostname/Endpoint/IP Address of Machine
 -----------------------------------------------------------------------------
 
