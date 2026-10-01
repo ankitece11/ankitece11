@@ -1,0 +1,31 @@
+Run this in GCP Account Terminal or any linux Terminal
+
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+        pwd - bandit0
+
+ssh = secure connect,  bandit0 = username,     @ = it is used between username & hostname
+
+bandit.labs.overthewire.org = Hostname/Endpoint/IP Address of Machine
+-----------------------------------------------------------------------------
+
+
+Run these commands in GCP Account (8+4)
+
+    1  ls
+    2  whoami
+    3  uname
+    4  pwd
+    5  mkdir Ankit
+    6  ls
+    7  cd
+    8  history
+
+--------------------------------------------------------------------
+    1  cd /
+    2  ls
+    3  cd ..
+    4  history
+    
+
+
+
