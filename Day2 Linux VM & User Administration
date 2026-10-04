@@ -1,7 +1,11 @@
      sudo -i
     1  ssh-keygen
+
+
+key will be there 
     2  cd /root/.ssh/
     3  ls
+id_ed25519   id_ed25519.pub will be there. So in order to cpy Public key
     4  cat id_ed25519.pub
     5  ls
     6  pwd
