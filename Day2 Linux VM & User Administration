@@ -35,8 +35,8 @@ id_ed25519   id_ed25519.pub will be there. So in order to copy Public key
    30  ls
        locate - to find location
    31  hostname
-   32  hostname -i
-   33  hostname -e
+   32  hostname -i   Internal IP
+   33  hostname -e   External IP
    34  curl ifconfig.me
    35  history
    36  uname
