@@ -2,7 +2,7 @@
     1  ssh-keygen
 
 
-key will be there 
+key will be there {RSA 3072} so key will be RSA
     2  cd /root/.ssh/
     3  ls
 id_ed25519   id_ed25519.pub will be there. So in order to cpy Public key
