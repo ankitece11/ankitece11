@@ -31,6 +31,7 @@
    31  tar -xvf allfiles.tar
    32  adduser kishore 
    33  su kishore
+       exit
    34  passwd kishore
    35  usrdel kishore
    36  userdel kishore
