@@ -1,4 +1,5 @@
     sudo -i
+    su
     1  cd /   to enter root folder
     2  ls
     3  cat /etc/os-release
