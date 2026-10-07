@@ -1,0 +1,8 @@
+sudo -i
+cd /tmp/
+ls
+mkdir day5
+ls
+cd day5/
+ls
+ls -l
