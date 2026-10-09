@@ -1,8 +1,39 @@
-sudo -i
-cd /tmp/
-ls
-mkdir day5
-ls
-cd day5/
-ls
-ls -l
+  sudo -i
+    1  cd /tmp/
+    2  ls
+    3  mkdir day5
+    4  ls
+    5  cd day5/
+    6  ls
+    7  ls -l
+    8  vi asi
+    9  ls -l
+   10  mkdir folder
+   11  ls -l
+   12  chnod +x asi
+   13  chmod +x asi
+   14  ls -l
+   15  exit
+   16  pwd
+   17  cd /tmp/day5
+   18  ls
+   19  touch file2
+   20  ls
+   21  ls -l
+   22  adduser vinod
+   23  chown root:vinod file2
+   24  ls
+   25  ls -l
+   26  history
+   27  sudo apt update
+   28  sudo apt install jenkins
+   29  dmesg
+   30  init0
+   31  apt install init0
+   32  sudo apt install init0
+   33  init 0
+   34  history
+   35  dmesg
+   36  dmesg | wc -l
+   37  lshw
+   38  history
